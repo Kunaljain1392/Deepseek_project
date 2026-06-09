@@ -1,0 +1,108 @@
+Date : 2026-06-09 13:35:34
+Directory : e:\Web_Development\Project\deepseak
+Total : 57 files,  10154 codes, 29 comments, 301 blanks, all 10484 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          2 |      8,580 |          0 |          2 |      8,582 |
+| JavaScript JSX     |          6 |        591 |         11 |         97 |        699 |
+| JavaScript         |         16 |        438 |          7 |        109 |        554 |
+| XML                |         28 |        267 |          0 |         22 |        289 |
+| PostCSS            |          2 |        240 |          9 |         54 |        303 |
+| Markdown           |          1 |         23 |          0 |         14 |         37 |
+| TypeScript         |          1 |          8 |          2 |          2 |         12 |
+| JSON with Comments |          1 |          7 |          0 |          1 |          8 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                   |         57 |     10,154 |         29 |        301 |     10,484 |
+| . (Files)                                                           |          8 |      8,634 |          3 |         28 |      8,665 |
+| app                                                                 |         12 |        644 |         14 |        155 |        813 |
+| app (Files)                                                         |          4 |        353 |          9 |         72 |        434 |
+| app\api                                                             |          8 |        291 |          5 |         83 |        379 |
+| app\api\chat                                                        |          5 |        196 |          3 |         54 |        253 |
+| app\api\chat\ai                                                     |          1 |         69 |          3 |         24 |         96 |
+| app\api\chat\create                                                 |          1 |         31 |          0 |          7 |         38 |
+| app\api\chat\delete                                                 |          1 |         32 |          0 |          8 |         40 |
+| app\api\chat\get                                                    |          1 |         27 |          0 |          7 |         34 |
+| app\api\chat\rename                                                 |          1 |         37 |          0 |          8 |         45 |
+| app\api\clerk                                                       |          1 |         38 |          2 |         12 |         52 |
+| app\api\deepseek                                                    |          1 |         25 |          0 |          7 |         32 |
+| app\api\webhooks                                                    |          1 |         32 |          0 |         10 |         42 |
+| app\api\webhooks\clerk                                              |          1 |         32 |          0 |         10 |         42 |
+| assets                                                              |         24 |        312 |          0 |         23 |        335 |
+| componenets                                                         |          4 |        445 |          8 |         68 |        521 |
+| config                                                              |          1 |         14 |          0 |          3 |         17 |
+| context                                                             |          1 |         67 |          3 |         17 |         87 |
+| model                                                               |          2 |         33 |          1 |          7 |         41 |
+| public                                                              |          5 |          5 |          0 |          0 |          5 |
++---------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                            | language           | code       | comment    | blank      | total      |
++---------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| e:\Web_Development\Project\deepseak\README.md                       | Markdown           |         23 |          0 |         14 |         37 |
+| e:\Web_Development\Project\deepseak\app\api\chat\ai\route.js        | JavaScript         |         69 |          3 |         24 |         96 |
+| e:\Web_Development\Project\deepseak\app\api\chat\create\route.js    | JavaScript         |         31 |          0 |          7 |         38 |
+| e:\Web_Development\Project\deepseak\app\api\chat\delete\route.js    | JavaScript         |         32 |          0 |          8 |         40 |
+| e:\Web_Development\Project\deepseak\app\api\chat\get\route.js       | JavaScript         |         27 |          0 |          7 |         34 |
+| e:\Web_Development\Project\deepseak\app\api\chat\rename\route.js    | JavaScript         |         37 |          0 |          8 |         45 |
+| e:\Web_Development\Project\deepseak\app\api\clerk\route.js          | JavaScript         |         38 |          2 |         12 |         52 |
+| e:\Web_Development\Project\deepseak\app\api\deepseek\route.js       | JavaScript         |         25 |          0 |          7 |         32 |
+| e:\Web_Development\Project\deepseak\app\api\webhooks\clerk\route.js | JavaScript         |         32 |          0 |         10 |         42 |
+| e:\Web_Development\Project\deepseak\app\globals.css                 | PostCSS            |         22 |          0 |          6 |         28 |
+| e:\Web_Development\Project\deepseak\app\layout.js                   | JavaScript         |         34 |          0 |          6 |         40 |
+| e:\Web_Development\Project\deepseak\app\page.jsx                    | JavaScript JSX     |         79 |          0 |         12 |         91 |
+| e:\Web_Development\Project\deepseak\app\prism.css                   | PostCSS            |        218 |          9 |         48 |        275 |
+| e:\Web_Development\Project\deepseak\assets\arrow_icon.svg           | XML                |         17 |          0 |          1 |         18 |
+| e:\Web_Development\Project\deepseak\assets\arrow_icon_dull.svg      | XML                |         17 |          0 |          1 |         18 |
+| e:\Web_Development\Project\deepseak\assets\assets.js                | JavaScript         |         50 |          0 |          1 |         51 |
+| e:\Web_Development\Project\deepseak\assets\chat_icon.svg            | XML                |         17 |          0 |          1 |         18 |
+| e:\Web_Development\Project\deepseak\assets\chat_icon_dull.svg       | XML                |         22 |          0 |          1 |         23 |
+| e:\Web_Development\Project\deepseak\assets\copy_icon.svg            | XML                |         21 |          0 |          1 |         22 |
+| e:\Web_Development\Project\deepseak\assets\deepthink_icon.svg       | XML                |          4 |          0 |          1 |          5 |
+| e:\Web_Development\Project\deepseak\assets\delete_icon.svg          | XML                |          5 |          0 |          1 |          6 |
+| e:\Web_Development\Project\deepseak\assets\dislike_icon.svg         | XML                |         16 |          0 |          1 |         17 |
+| e:\Web_Development\Project\deepseak\assets\like_icon.svg            | XML                |         11 |          0 |          1 |         12 |
+| e:\Web_Development\Project\deepseak\assets\logo_icon.svg            | XML                |          3 |          0 |          1 |          4 |
+| e:\Web_Development\Project\deepseak\assets\logo_text.svg            | XML                |         18 |          0 |          1 |         19 |
+| e:\Web_Development\Project\deepseak\assets\menu_icon.svg            | XML                |          5 |          0 |          1 |          6 |
+| e:\Web_Development\Project\deepseak\assets\new_icon.svg             | XML                |          1 |          0 |          0 |          1 |
+| e:\Web_Development\Project\deepseak\assets\pencil_icon.svg          | XML                |          9 |          0 |          1 |         10 |
+| e:\Web_Development\Project\deepseak\assets\phone_icon.svg           | XML                |          4 |          0 |          1 |          5 |
+| e:\Web_Development\Project\deepseak\assets\phone_icon_dull.svg      | XML                |          4 |          0 |          1 |          5 |
+| e:\Web_Development\Project\deepseak\assets\pin_icon.svg             | XML                |         10 |          0 |          1 |         11 |
+| e:\Web_Development\Project\deepseak\assets\profile_icon.svg         | XML                |         10 |          0 |          1 |         11 |
+| e:\Web_Development\Project\deepseak\assets\regenerate_icon.svg      | XML                |         18 |          0 |          1 |         19 |
+| e:\Web_Development\Project\deepseak\assets\search_icon.svg          | XML                |         11 |          0 |          1 |         12 |
+| e:\Web_Development\Project\deepseak\assets\sidebar_close_icon.svg   | XML                |         18 |          0 |          1 |         19 |
+| e:\Web_Development\Project\deepseak\assets\sidebar_icon.svg         | XML                |         18 |          0 |          1 |         19 |
+| e:\Web_Development\Project\deepseak\assets\three_dots.svg           | XML                |          3 |          0 |          1 |          4 |
+| e:\Web_Development\Project\deepseak\componenets\ChatLabel.jsx       | JavaScript JSX     |         91 |          0 |         19 |        110 |
+| e:\Web_Development\Project\deepseak\componenets\Message.jsx         | JavaScript JSX     |        133 |          2 |          7 |        142 |
+| e:\Web_Development\Project\deepseak\componenets\PromptBox.jsx       | JavaScript JSX     |        142 |          6 |         26 |        174 |
+| e:\Web_Development\Project\deepseak\componenets\Sidebar.jsx         | JavaScript JSX     |         79 |          0 |         16 |         95 |
+| e:\Web_Development\Project\deepseak\config\db.js                    | JavaScript         |         14 |          0 |          3 |         17 |
+| e:\Web_Development\Project\deepseak\context\AppContext.jsx          | JavaScript JSX     |         67 |          3 |         17 |         87 |
+| e:\Web_Development\Project\deepseak\eslint.config.mjs               | JavaScript         |         10 |          0 |          5 |         15 |
+| e:\Web_Development\Project\deepseak\jsconfig.json                   | JSON with Comments |          7 |          0 |          1 |          8 |
+| e:\Web_Development\Project\deepseak\middleware.ts                   | TypeScript         |          8 |          2 |          2 |         12 |
+| e:\Web_Development\Project\deepseak\model\Chat.js                   | JavaScript         |         20 |          1 |          3 |         24 |
+| e:\Web_Development\Project\deepseak\model\User.js                   | JavaScript         |         13 |          0 |          4 |         17 |
+| e:\Web_Development\Project\deepseak\next.config.mjs                 | JavaScript         |          2 |          1 |          2 |          5 |
+| e:\Web_Development\Project\deepseak\package-lock.json               | JSON               |      8,545 |          0 |          1 |      8,546 |
+| e:\Web_Development\Project\deepseak\package.json                    | JSON               |         35 |          0 |          1 |         36 |
+| e:\Web_Development\Project\deepseak\postcss.config.mjs              | JavaScript         |          4 |          0 |          2 |          6 |
+| e:\Web_Development\Project\deepseak\public\file.svg                 | XML                |          1 |          0 |          0 |          1 |
+| e:\Web_Development\Project\deepseak\public\globe.svg                | XML                |          1 |          0 |          0 |          1 |
+| e:\Web_Development\Project\deepseak\public\next.svg                 | XML                |          1 |          0 |          0 |          1 |
+| e:\Web_Development\Project\deepseak\public\vercel.svg               | XML                |          1 |          0 |          0 |          1 |
+| e:\Web_Development\Project\deepseak\public\window.svg               | XML                |          1 |          0 |          0 |          1 |
+| Total                                                               |                    |     10,154 |         29 |        301 |     10,484 |
++---------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
