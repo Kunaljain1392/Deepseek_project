@@ -62,25 +62,26 @@ The goal of this project was to build a production-style AI assistant that demon
 
 ### Home Page
 
-<img src="./screenshots/home.png" alt="Home Page" width="100%">
+<img src="./public/screenshots/home.png" alt="Home Page" width="100%">
 
 ---
 
 ### Authentication
 
-<img src="./screenshots/signIn.png" alt="Authentication" width="100%">
+<img src="./public/screenshots/signIn.png" alt="Authentication" width="100%">
 
 ---
 
 ### Chat Interface
 
-<img src="./screenshots/chat.png" alt="Chat Interface" width="100%">
+<img src="./public/screenshots/chat.png" alt="Chat Interface" width="100%">
 
 ---
 
 ### Chat History
 
-<img src="./screenshots/history.png" alt="Chat History" width="100%">
+<img src="./public/screenshots/history.png" alt="Chat History" width="100%">
+
 
 ---
 
